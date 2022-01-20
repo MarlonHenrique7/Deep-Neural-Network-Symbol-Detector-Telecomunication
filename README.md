@@ -7,3 +7,5 @@ O objetivo deste experimento é introduzir as redes Deep Neural Network (DNN), q
 Nesta aplicação, será implementada uma DNN para realizar a detecção de símbolos enviados em um canal com ruído branco aditivo gaussiano *(Aditive White Gaussian Noise - AWGN)*, dado que modulação utilizada é a Modulação de Amplitude em Quadratura *(Quadrature Amplitude Modulation - QAM)*, optando-se pelo 16-QAM, em que cada um dos 16 símbolos que são enviados pelo canal correspondente a uma palavra binária de 4 bits. 
 
 Ao final, os resultados obtidos utilizando-se a DNN serão comparados com o desempenho do detector ótimo, com a finalidade de se verificar a acurácia da DNN treinada.
+
+![screencapture-colab-research-google-drive-1a1SWHkWLcbchXZUGzNnRfD0Ic5APXa1G-2022-01-20-20_23_05](https://user-images.githubusercontent.com/64854811/150437991-5251c8e4-bf97-4937-8ce3-62c959356a0b.png)
