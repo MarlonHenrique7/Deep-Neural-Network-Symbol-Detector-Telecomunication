@@ -8,4 +8,4 @@ Nesta aplicação, será implementada uma DNN para realizar a detecção de sím
 
 Ao final, os resultados obtidos utilizando-se a DNN serão comparados com o desempenho do detector ótimo, com a finalidade de se verificar a acurácia da DNN treinada.
 
-![screencapture-colab-research-google-drive-1a1SWHkWLcbchXZUGzNnRfD0Ic5APXa1G-2022-01-20-20_23_05](https://user-images.githubusercontent.com/64854811/150437991-5251c8e4-bf97-4937-8ce3-62c959356a0b.png)
+
