@@ -8,6 +8,6 @@ Nesta aplicação, será implementada uma DNN para realizar a detecção de sím
 
 Ao final, os resultados obtidos utilizando-se a DNN serão comparados com o desempenho do detector ótimo, com a finalidade de se verificar a acurácia da DNN treinada.
 
-Acesso o notebook **Experimento 1.ipynb** para visualizar toda a estrutura montada da DNN, além da visualização dos resultados.
+Acesse o notebook **Experimento 1.ipynb** para visualizar toda a estrutura montada da DNN, além da visualização dos resultados.
 
 
