@@ -1,4 +1,4 @@
-# Deep_Neural_Network_Symbol_Detector_Telecomunication
+# Deep Neural Network Symbol Detector Telecomunication
  
 Durante um recesso da faculdade, tive a oportunidade de participar de um curso de redes neurais, o qual tive que elaborar um notebook para alguns alunos do curso. O notebook trata da seguinte aplicação:
 
