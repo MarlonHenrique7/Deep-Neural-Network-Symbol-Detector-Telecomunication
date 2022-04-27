@@ -1,6 +1,6 @@
 # Deep Neural Network Symbol Detector Telecomunication
  
-Durante um recesso da faculdade, tive a oportunidade de participar de um curso de redes neurais, o qual tive que elaborar um notebook para alguns alunos do curso. O notebook trata da seguinte aplicação:
+Durante um recesso da Universidade, tive a oportunidade de participar de um curso de redes neurais, o qual tive que elaborar um notebook para alguns alunos do curso. O notebook trata da seguinte aplicação:
 
 O objetivo deste experimento é introduzir as redes Deep Neural Network (DNN), que é a base para todas as outras redes que virão, mostrando uma aplicação prática e eficiente.
 
